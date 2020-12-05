@@ -4,7 +4,7 @@
 ### I'm an author :book: :pencil2:, programmer 💻, artist :art: and youtuber :video_game: who is passionate about space, to become an astronaut.
 
 
-- 🔭 I’m currently working on writing a book about a great persion who contributed a concept of rocket science.
+- 🔭 I’m currently working on writing a book about a great person who contributed a concept of rocket science.
 - 🌱 I’m currently learning python.
 
 :boy: writing :book:<br />
