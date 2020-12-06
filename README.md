@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning python.
 
 :boy: writing :books: :writing_hand: <br />
-🧠 learning [python][python] :beginner:<br />
+🧠 learning [python][python] :beginner: ecosystem<br />
 💜 loving [python][python], [writing books][writing books], [youtube][youtube], [artwork][artwork], [running][running]
 
 🏡 [website][website] **|** 
