@@ -21,7 +21,7 @@
 [python]: https://www.python.org
 [writing books]: https://www.amazon.com/Lost-Boy-great-adventure/dp/1656927888
 [book]: https://www.amazon.com/Giratina-distortion-world-Shalom-Keshet/dp/B08MSLX9LT
-[running]: https://runkeeper.com/
+[running]: https://runkeeper.com/user/3300919284/profile
 [artwork]: https://india.googleblog.com/2018/10/meet-finalists-of-doodle-4-google-2018.html
 [website]: http://shalomkeshet.com
 [twitter]: https://twitter.com/nattybloc
