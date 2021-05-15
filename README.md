@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on writing a book about a great Slovene rocket engineer and pioneer of astronautics who is chiefly remembered for his work addressing the long-term human habitation of space.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning python, C++ and Data Structures and Algorithms.
 
 :boy: writing :books: :writing_hand: <br />
 🧠 learning [python][python] :beginner: ecosystem<br />
@@ -40,7 +40,7 @@ Science Olympiad Foundation honoured him with SOF HALL OF FAME (https://bit.ly/3
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on writing a book person who contributed a concept of rocket science.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning python, C++ and Data Structures and Algorithms.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
