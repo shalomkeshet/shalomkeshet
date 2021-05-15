@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on writing a book about a great Slovene rocket engineer and pioneer of astronautics who is chiefly remembered for his work addressing the long-term human habitation of space.
-- 🌱 I’m currently learning python, C++ and Data Structures and Algorithms.
+- 🌱 I’m currently learning Python, C++ and Data Structures and Algorithms.
 
 :boy: writing :books: :writing_hand: <br />
 🧠 learning [python][python] :beginner: ecosystem<br />
