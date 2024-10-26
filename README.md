@@ -4,8 +4,8 @@
 ### :student: I'm an author :writing_hand: :small_orange_diamond: :technologist: coder 💻 :small_orange_diamond: artist :artist: :small_orange_diamond: youtuber :video_game: and mathematics enthusiast 📖: :wavy_dash: who is passionate about space, to become an astronaut :astronaut::rocket:.
 
 
-- 🔭 I’m currently working on writing a book about a great Slovene rocket engineer and pioneer of astronautics who is chiefly remembered for his work addressing the long-term human habitation of space.
-- 🌱 I’m currently learning Python, C++ and Data Structures and Algorithms.
+- 🔭 I'm currently authoring a book about the renowned Slovene rocket engineer and pioneer of astronautics, Herman Potočnik. His visionary work delved into the complexities of long-term human habitation in space, and my book aims to illuminate his groundbreaking contributions to the field
+- 🌱 Currently learning Python, C++, and exploring Data Structures and Algorithms.
 
 :boy: writing :books: :writing_hand: <br />
 🧠 learning [python][python] :beginner: ecosystem<br />
