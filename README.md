@@ -1,7 +1,7 @@
 [![bg][banner]][website]
 ### Hi, I'm Shalom 👋 :scorpius::student:🏼‍💻 :runner: 
 
-### :student: I'm an author :writing_hand: :small_orange_diamond: :technologist: coder 💻 :small_orange_diamond: artist :artist: :small_orange_diamond: youtuber :video_game: and runner :runner: :wavy_dash: who is passionate about space, to become an astronaut :astronaut::rocket:.
+### :student: I'm an author :writing_hand: :small_orange_diamond: :technologist: coder 💻 :small_orange_diamond: artist :artist: :small_orange_diamond: youtuber :video_game: and mathematics enthusiast 📖: :wavy_dash: who is passionate about space, to become an astronaut :astronaut::rocket:.
 
 
 - 🔭 I’m currently working on writing a book about a great Slovene rocket engineer and pioneer of astronautics who is chiefly remembered for his work addressing the long-term human habitation of space.
