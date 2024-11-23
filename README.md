@@ -1,15 +1,18 @@
 [![bg][banner]][website]
-### Hi, I'm Shalom 👋 :scorpius::student:🏼‍💻 :runner: 
+### Hi, I'm Shalom 👋 :scorpius:🧑‍🎓
 
-### :student: I'm an author :writing_hand: :small_orange_diamond: :technologist: coder 💻 :small_orange_diamond: artist :artist: :small_orange_diamond: youtuber :video_game: and mathematics enthusiast 📖: :wavy_dash: who is passionate about space, to become an astronaut :astronaut::rocket:.
+### :student: I'm an author :writing_hand: :small_orange_diamond: :technologist: coder 💻 :small_orange_diamond: artist :artist: :small_orange_diamond: 🧮 mathematics :small_orange_diamond: 🧑‍🔬 physics enthusiast 📖 :wavy_dash: who is passionate about space, to become an astronaut :astronaut::rocket:.
+
+I'm also a youtuber :video_game: :small_orange_diamond: and enjoy chess♟️  :small_orange_diamond: singing 🧑‍🎤 :small_orange_diamond: ⛹️‍♂️ skater.
 
 
-- 🔭 I'm currently authoring a book about the renowned Slovene rocket engineer and pioneer of astronautics, Herman Potočnik. His visionary work delved into the complexities of long-term human habitation in space, and my book aims to illuminate his groundbreaking contributions to the field
-- 🌱 Currently learning Python, C++, and exploring Data Structures and Algorithms.
+- 🔭 I am currently authoring a book about the renowned Slovene rocket engineer and pioneer of astronautics, Herman Potočnik. His visionary work explored the complexities of long-term human habitation in space. My book aims to highlight his groundbreaking contributions to the field and their lasting impact on space exploration.
+
+- 🌱 Currently learning Python and C++, while exploring Data Structures, Algorithms, advanced mathematics, and physics.
 
 :boy: writing :books: :writing_hand: <br />
 🧠 learning [python][python] :beginner: ecosystem<br />
-💜 loving [python][python], [writing books][writing books], [youtube][youtube], [artwork][artwork], [running][running]
+💜 loving [python][python], [writing books][writing books], coding, solving mathematics problem, and delving into physics.
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
@@ -30,9 +33,11 @@
 [linkedin]: https://in.linkedin.com/in/shalomkeshet
 
 ### About
-Shalom, known his sobriquet as Natty, is a precocious author, winner of Camp Google (2020) and national finalist of Doodle 4 Google India (2018). His doodle titled 'Nature's Tiny Workers' was featured in Hindustan Times (https://bit.ly/2InwzVc). He has a citation in India Book of Records for writing his debut book, The Lost Boy (https://amzn.to/2Q9ecHw) - recommended by NASA Astronaut Sunita Williams, at the age of 8. 
+Shalom, known his sobriquet as **Natty**, is a precocious author and winner of Camp Google (2020), as weel as a national finalist in Doodle 4 Google India (2018). His doodle, titled Nature's Tiny Workers, was featured in Hindustan Times (https://bit.ly/2InwzVc). At the age of 8, he authored his debut book, The Lost Boy (https://amzn.to/2Q9ecHw), which was recommended by NASA Astronaut Sunita Williams and earned him a citation in the India Book of Records.
 
-Science Olympiad Foundation honoured him with SOF HALL OF FAME (https://bit.ly/31R6Ygw).  And Shalom interviewed Virat Kohli at the culmination of the competition by Google India. his artwork was exhibited at NASA on Apollo’s 50th Anniversary (https://bit.ly/31R6Ygw). Shalom is exhibited as a "Wonder Boy" at the Sunita Williams Memorial Room. He is a YouTuber and does commentary, creates and posts videos Minecraft Education video game and play chess :chess_pawn: and sings :singer: in his leisure time.
+The Science Olympiad Foundation honoured him with the SOF HALL OF FAME (https://bit.ly/31R6Ygw). And Shalom interviewed Virat Kohli during the culmination of the competition organized by Google India. His artwork was exhibited at NASA during the Apollo 50th Anniversary celebrations (https://bit.ly/31R6Ygw), and he is prominently showcased as a "Wonder Boy" at the Sunita Williams Memorial Room.
+
+In addition to his accomplishments, Shalom is a YouTuber who creates and posts educational Minecraft videos, plays chess :chess_pawn: and enjoys singing :singer: in his leisure time.
 
 <!--
 **shalomkeshet/shalomkeshet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
