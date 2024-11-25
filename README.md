@@ -1,18 +1,59 @@
 [![bg][banner]][website]
-### Hi, I'm Shalom 👋 :scorpius:🧑‍🎓
 
-### :student: I'm an author :writing_hand: :small_orange_diamond: :technologist: coder 💻 :small_orange_diamond: artist :artist: :small_orange_diamond: 🧮 mathematics :small_orange_diamond: 🧑‍🔬 physics enthusiast 📖 :wavy_dash: who is passionate about space, to become an astronaut :astronaut::rocket:.
+# Hi there 👋, I'm Shalom!
+🚀 Coder | 🌐 Tech Enthusiast | 💡 Problem Solver | ✍️ Author | 🎨 Artist
 
-I'm also a youtuber :video_game: :small_orange_diamond: and enjoy chess♟️  :small_orange_diamond: singing 🧑‍🎤 :small_orange_diamond: ⛹️‍♂️ skater.
+### ✨ About Me
+
+ 👨‍🚀 I am a passionate individual with a deep interest in space and a strong aspiration to become an astronaut. I am constantly exploring new frontiers, whether in the field of 🚀 **technology**, 💻 **programming**, or through my fascination with the 🌌 **cosmos**. With a strong drive to learn and contribute to space exploration, I aim to merge my technical expertise with my love for space.
+Here’s your **About Me** section with a horizontal line added after the text:
+
+---
+
+🔧 **Currently working on**:  
+- **The Factorial Force** - An advanced calculator to perform various calculations.  
+- **Anantavyay** – A new programming language that combines the ease of use and readability of Python with the raw power and efficiency of C. It supports all Python libraries and offers enhanced performance.
+
+📚 **Currently authoring**: A book about the renowned Slovene rocket engineer and pioneer of astronautics, **Herman Potočnik**.
 
 
-- 🔭 I am currently authoring a book about the renowned Slovene rocket engineer and pioneer of astronautics, Herman Potočnik. His visionary work explored the complexities of long-term human habitation in space. My book aims to highlight his groundbreaking contributions to the field and their lasting impact on space exploration.
+- ✍️ Author of [**The Lost Boy**](https://www.amazon.com/Lost-Boy-great-adventure/dp/1656927888), [**What Happened to Gravity!**](https://www.amazon.com/WHAT-HAPPENED-GRAVITY-Shalom-Keshet/dp/B0B4BXRMZ2), and more!
 
-- 🌱 Currently learning Python and C++, while exploring Data Structures, Algorithms, advanced mathematics, and physics.
-
-:boy: writing :books: :writing_hand: <br />
-🧠 learning [python][python] :beginner: ecosystem<br />
 💜 loving [python][python], [writing books][writing books], coding, solving mathematics problem, and delving into physics.
+
+---
+
+### 🛠 Tech Stack
+- 🔍 DSA (Data Structures & Algorithms)
+- **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
+- **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
+
+
+---
+
+### 🚀 Future Projects  
+
+| **Project Name**            | **Description**                                                                                                                                                                                   | **Live Link**                                                                                             | **Repo (Private)**                                                                                                          | **Contributors**                              |
+|-----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
+| **The Factorial Force**      | An advanced calculator to perform various calculations, made by [Shalom](https://github.com/shalomkeshet) and [Shashvat](https://github.com/Syntax-Virtuoso).                                     | [The Factorial Force](https://thefactorialforce.vercel.app/)                                              | [GitHub Repo (Private)](https://github.com/Syntax-Virtuoso/The_Factorial_Force)                                            | [Shalom](https://github.com/shalomkeshet), [Shashvat](https://github.com/Syntax-Virtuoso) |
+| **Anantavyay**               | Anantavyay is a new programming language that combines the ease of use and readability of Python with the raw power and efficiency of C. It supports all Python libraries and offers enhanced performance. | [Anantavyay](https://anantavyay.vercel.app/)                                                              | [GitHub Repo (Private)](https://github.com/Syntax-Virtuoso/anantavyay)                                                    | [Shalom](https://github.com/shalomkeshet), [Shashvat](https://github.com/Syntax-Virtuoso) |
+
+
+### ⚡ Hobbies  
+
+YouTuber: :video_game:   Chess: ♟️   Singing: 🧑‍🎤   Skating: ⛹️‍♂️   Football: ⚽   Table Tennis: 🏓   Lawn Tennis: 🎾   Gaming: 🎮
+
+---
+
+### 🏆 **Achievements of NATTY**
+
+Shalom, known as **Natty**, is a young author and tech enthusiast with an impressive list of accomplishments. At just 8 years old, he wrote his debut book, **The Lost Boy** (📚 [Amazon](https://amzn.to/2Q9ecHw)), which earned praise from NASA Astronaut **Sunita Williams** and a citation in the **India Book of Records**. His artwork, **Nature’s Tiny Workers**, won him a spot as a finalist in **Doodle 4 Google India (2018)** and was featured in **Hindustan Times** ([link](https://bit.ly/2InwzVc)).
+
+Shalom has been recognized by the **Science Olympiad Foundation** with a place in the **SOF Hall of Fame** ([link](https://bit.ly/31R6Ygw)) and even interviewed cricket legend **Virat Kohli** at a Google India event. His artwork was displayed at **NASA** during the **Apollo 50th Anniversary** ([link](https://bit.ly/31R6Ygw)), and he’s honored as a "Wonder Boy" in the **Sunita Williams Memorial Room**.
+
+In his spare time, Shalom creates educational Minecraft content on YouTube, enjoys playing **chess** ♟️, and loves to **sing** 🎤.
+
+---
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
@@ -32,12 +73,6 @@ I'm also a youtuber :video_game: :small_orange_diamond: and enjoy chess♟️  :
 [instagram]: https://instagram.com/shalomkeshet
 [linkedin]: https://in.linkedin.com/in/shalomkeshet
 
-### About
-Shalom, known his sobriquet as **Natty**, is a precocious author and winner of Camp Google (2020), as weel as a national finalist in Doodle 4 Google India (2018). His doodle, titled Nature's Tiny Workers, was featured in Hindustan Times (https://bit.ly/2InwzVc). At the age of 8, he authored his debut book, The Lost Boy (https://amzn.to/2Q9ecHw), which was recommended by NASA Astronaut Sunita Williams and earned him a citation in the India Book of Records.
-
-The Science Olympiad Foundation honoured him with the SOF HALL OF FAME (https://bit.ly/31R6Ygw). And Shalom interviewed Virat Kohli during the culmination of the competition organized by Google India. His artwork was exhibited at NASA during the Apollo 50th Anniversary celebrations (https://bit.ly/31R6Ygw), and he is prominently showcased as a "Wonder Boy" at the Sunita Williams Memorial Room.
-
-In addition to his accomplishments, Shalom is a YouTuber who creates and posts educational Minecraft videos, plays chess :chess_pawn: and enjoys singing :singer: in his leisure time.
 
 <!--
 **shalomkeshet/shalomkeshet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
